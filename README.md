@@ -4,7 +4,7 @@ Random links related to Reinforcement Learning and related stuff
 
 # General Reinforcement Learning
 * [Reinforcement Q-Learning from Scratch in Python with OpenAI Gym](https://www.learndatasci.com/tutorials/reinforcement-q-learning-scratch-python-openai-gym/)
-* [Practical Reinforcement Learning](Reinforcement Q-Learning from Scratch in Python with OpenAI Gym)
+* [Practical Reinforcement Learning](https://www.coursera.org/learn/practical-rl)
 
 ## Coral
 * [Getting started with Google Coral's TPU USB Accelerator](https://www.pyimagesearch.com/2019/04/22/getting-started-with-google-corals-tpu-usb-accelerator/)
